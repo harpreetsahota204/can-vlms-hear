@@ -6,3 +6,7 @@ transformers<4.49.0
 librosa
 huggingface-hub
 music2latent
+pyvips-binary 
+pyvips
+pillow
+git+https://github.com/deepseek-ai/Janus.git
